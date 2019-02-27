@@ -1,0 +1,9 @@
+{
+	"name": "DataFetcher",
+	"version": "1.0.0",
+	"title": "DataFetcher",
+	"author": "Adraxas",
+	"description": "Exports recipe, assembler, and furnace data for Factorio Recipe Calculator",
+	"factorio_version":"0.16",
+	"dependencies": ["base >= 0.16.3"]
+}
